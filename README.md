@@ -8,6 +8,10 @@
 <br>
 <br>
 <br>
+
+[Live Demo](https://name-conversionbyzee.netlify.app)
+
+
 ### - About Working of this Project
 
 In this project i have made a Case converter Which Convert a normal String into Six diffrent Types of case <br> 
